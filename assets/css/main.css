@@ -190,7 +190,7 @@ input, select, textarea {
 		font-weight: normal;
 		font-size: 1rem;
 		font-style: normal;
-		letter-spacing: 0;
+		letter-spacing: 0.01em;
 		line-height: 1.2;
 	}
 
@@ -263,12 +263,6 @@ input, select, textarea {
 		font-size: 0.7rem;
 	}
 	
-	.logo {
-		font-family: 'BS-Regular-b', sans-serif;
-		font-weight: normal;
-		font-size: 1rem;
-	}
-
 	sub {
 		font-size: 0.8rem;
 		position: relative;
@@ -461,6 +455,7 @@ input, select, textarea {
 
 		a:hover {
 			color: #a2a2a2;
+			border-bottom: 1px solid rgba(0, 0, 0, 0.2);
 		}
 
 	blockquote {
@@ -7200,6 +7195,7 @@ input, select, textarea {
 
 				#wrapper > .invert a:hover {
 					color: #a2a2a2;
+					border-bottom: 1px solid rgba(255, 255, 255, 0.4);
 				}
 
 			#wrapper > .invert strong, #wrapper > .invert b {
@@ -7493,7 +7489,7 @@ input, select, textarea {
 		}
 
 		#wrapper > .color2 {
-			background-color: #db8992;
+			background-color: #12f8ff;
 		}
 
 		#wrapper > .color3 {
