@@ -27,8 +27,8 @@
 }
 
 @font-face {
-  font-family: Purista Semibold;
-  src: url(../webfonts/Purista_Semibold.woff2) format('woff2');
+  font-family: Purista SemiBold;
+  src: url(../webfonts/Purista_SemiBold.woff2) format('woff2');
   font-display: swap;
   font-style: normal;
 }
@@ -264,19 +264,19 @@ input, select, textarea {
 	}
 	
 	h1.major {
-		font-family: 'Purista Semibold', sans-serif;
+		font-family: 'Purista SemiBold', sans-serif;
 		font-weight: normal;
 		font-size: 4.75rem;
 	}
 
 	h2 {
-		font-family: 'Purista Semibold', sans-serif;
+		font-family: 'Purista SemiBold', sans-serif;
 		font-weight: normal;
 		font-size: 3.25rem;
 	}
 
 	h3 {
-		font-family: 'Purista Semibold', sans-serif;
+		font-family: 'Purista SemiBold', sans-serif;
 		font-weight: normal;
 		font-size: 1.5rem;
 	}
