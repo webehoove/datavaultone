@@ -6,7 +6,7 @@
 }
 
 @font-face {
-  font-family: Purista_Light;
+  font-family: Purista Light;
   src: url(../webfonts/Purista_Light.woff2) format('woff2');
   font-display: swap;
   font-style: normal;
@@ -20,21 +20,21 @@
 }
 
 @font-face {
-  font-family: Purista_Medium;
+  font-family: Purista Medium;
   src: url(../webfonts/Purista_Medium.woff2) format('woff2');
   font-display: swap;
   font-style: normal;
 }
 
 @font-face {
-  font-family: Purista_Semibold;
+  font-family: Purista Semibold;
   src: url(../webfonts/Purista_Semibold.woff2) format('woff2');
   font-display: swap;
   font-style: normal;
 }
 
 @font-face {
-  font-family: Purista_Bold;
+  font-family: Purista Bold;
   src: url(../webfonts/Purista_Bold.woff2) format('woff2');
   font-display: swap;
   font-style: normal;
@@ -247,7 +247,7 @@ input, select, textarea {
 		}
 
 	h1, h2, h3, h4, h5, h6 {
-		font-family: 'Purista_Medium', sans-serif;
+		font-family: 'Purista Medium', sans-serif;
 		font-weight: normal;
 		line-height: 1;
 		letter-spacing: 0;
@@ -264,19 +264,19 @@ input, select, textarea {
 	}
 	
 	h1.major {
-		font-family: 'Purista_Semibold', sans-serif;
+		font-family: 'Purista Semibold', sans-serif;
 		font-weight: normal;
 		font-size: 4.75rem;
 	}
 
 	h2 {
-		font-family: 'Purista_Semibold', sans-serif;
+		font-family: 'Purista Semibold', sans-serif;
 		font-weight: normal;
 		font-size: 3.25rem;
 	}
 
 	h3 {
-		font-family: 'Purista_Semibold', sans-serif;
+		font-family: 'Purista Semibold', sans-serif;
 		font-weight: normal;
 		font-size: 1.5rem;
 	}
