@@ -1,8 +1,25 @@
 @font-face {
+  font-family: Simplon BP Regular;
+  src: url(../webfonts/SimplonBPRegular.woff2) format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Metodo;
+  src: url(../webfonts/Metodo-Regular.woff2) format('woff2');
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
   font-family: DataVaultOne-Regular;
   src: url(../webfonts/DataVaultOne-Regular.woff2) format('woff2');
   font-display: swap;
   font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-smooth: never;
 }
 
 @font-face {
@@ -201,7 +218,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		font-family: 'Supreme', sans-serif;
-		font-weight: 360;
+		font-weight: 400;
 		font-size: 1rem;
 		font-style: normal;
 		font-display: swap;
