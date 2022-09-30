@@ -260,7 +260,7 @@ input, select, textarea {
 		font-family: 'Purista Medium', sans-serif;
 		font-weight: normal;
 		line-height: 1;
-		letter-spacing: 0;
+		letter-spacing: -0.01em;
 		margin: 0 0 1rem 0;
 	}
 
